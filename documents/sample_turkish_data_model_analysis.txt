@@ -1,0 +1,1 @@
+V1 veritabanında X1 şemasında T1 tablosu oluşturulmalıdır. T1 tablosu C1, C2, C3 kolonlarına sahip olmalıdır. C1 kolonu tablonun birincil anahtarıdır ve sayı değeri içermelidir. C2 kolonu metin içerir ve boş olamaz. C3 kolonu da sayısal değer alır ve boş olabilir.
